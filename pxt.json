@@ -5,7 +5,9 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "linebeacon": "github:pizayanz/pxt-linebeacon#v0.0.14"
+        "linebeacon": "github:pizayanz/pxt-linebeacon#v0.0.14",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "pxt-wappsto": "github:wappsto/pxt-wappsto#v1.1.1"
     },
     "files": [
         "main.ts",
